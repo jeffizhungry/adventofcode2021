@@ -1,5 +1,3 @@
-import requests
-
 def calc_increases(data: list[int]):
     num_increases = 0
     prev = None
